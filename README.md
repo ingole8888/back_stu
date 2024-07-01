@@ -1,1 +1,1 @@
-# Back Stu
+# Back Student Management System.
